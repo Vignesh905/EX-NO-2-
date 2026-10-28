@@ -106,5 +106,5 @@ int main()
 Output:
 
 
-<img width="310" height="195" alt="Screenshot 2026-10-28 083057" src="https://github.com/user-attachments/assets/858b2f6e-9a50-41b9-b95c-564038842713" />
+<img width="1516" height="993" alt="Screenshot 2026-10-28 083527" src="https://github.com/user-attachments/assets/d6d20ff3-f044-455a-91c4-96f4e8d09f38" />
 
